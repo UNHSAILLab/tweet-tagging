@@ -1,0 +1,199 @@
+{
+    "tag_results": [
+        {
+            "tweet": "Ireland a frequent Israel critic and Norway win seats on UN Security Council httpstcoITxgLfAltx via timesofisrael",
+            "permID_tags": {
+                "tags": {
+                    "tag_1": [
+                        {
+                            "name": "United Nations organs",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_2": [
+                        {
+                            "name": "International security",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_3": [
+                        {
+                            "name": "United Nations Security Council",
+                            "importance": "1"
+                        }
+                    ]
+                },
+                "topics": {
+                    "topic_1": [
+                        {
+                            "topic": "Politics",
+                            "score": 0.91
+                        }
+                    ],
+                    "topic_2": [
+                        {
+                            "topic": "Environment",
+                            "score": 0.661
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "tweet": "V Kamakoti of National Security Advisory Board tells Parikshitl that this is a time India can become a software hu httpstcoqXXKYmys",
+            "permID_tags": {
+                "tags": {
+                    "tag_1": [
+                        {
+                            "name": "National security",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_2": [
+                        {
+                            "name": "Political terminology",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_3": [
+                        {
+                            "name": "Hu",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_4": [
+                        {
+                            "name": "Shankaracharyas",
+                            "importance": "2"
+                        }
+                    ],
+                    "tag_5": [
+                        {
+                            "name": "Adi Shankara",
+                            "importance": "2"
+                        }
+                    ],
+                    "tag_6": [
+                        {
+                            "name": "Advaita Vedanta",
+                            "importance": "2"
+                        }
+                    ]
+                },
+                "topics": {
+                    "topic_1": [
+                        {
+                            "topic": "Technology_Internet",
+                            "score": 0.986
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "tweet": "India secures seat as a nonpermanent member at the UN Security Council  httpstcoaFLgBerB",
+            "permID_tags": {
+                "tags": {
+                    "tag_1": [
+                        {
+                            "name": "International security",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_2": [
+                        {
+                            "name": "United Nations Security Council",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_3": [
+                        {
+                            "name": "Foreign relations of Libya",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_4": [
+                        {
+                            "name": "Libyan Civil War",
+                            "importance": "2"
+                        }
+                    ]
+                },
+                "topics": {
+                    "topic_1": [
+                        {
+                            "topic": "War_Conflict",
+                            "score": 0.568
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "tweet": "Globalist UN lickspittle Ireland rewarded with a UN security council member slot are on the case demanding sancti httpstcoYufSNtUFSi",
+            "permID_tags": {
+                "tags": {
+                    "tag_1": [
+                        {
+                            "name": "Globalist",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_2": [
+                        {
+                            "name": "United Nations Security Council",
+                            "importance": "1"
+                        }
+                    ]
+                },
+                "topics": {
+                    "topic_1": [
+                        {
+                            "topic": "Environment",
+                            "score": 0.891
+                        }
+                    ],
+                    "topic_2": [
+                        {
+                            "topic": "Business_Finance",
+                            "score": 0.572
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "tweet": "btw my army also awaitsboth here and everywheresecurity make sure mels dont cock the hammer or i put you on httpstcoExOtFjNm",
+            "permID_tags": {
+                "tags": {
+                    "tag_1": [
+                        {
+                            "name": "BTW",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_2": [
+                        {
+                            "name": "MELS",
+                            "importance": "1"
+                        }
+                    ],
+                    "tag_3": [
+                        {
+                            "name": "Rooster",
+                            "importance": "1"
+                        }
+                    ]
+                },
+                "topics": {
+                    "topic_1": [
+                        {
+                            "topic": "Health_Medical_Pharma",
+                            "score": 0.991
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

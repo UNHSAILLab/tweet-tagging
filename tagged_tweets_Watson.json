@@ -1,0 +1,159 @@
+[
+    {
+        "tweet": "Ireland a frequent Israel critic and Norway win seats on UN Security Council httpstcoITxgLfAltx via timesofisrael",
+        "tags": {
+            "usage": {
+                "text_units": 1,
+                "text_characters": 113,
+                "features": 1
+            },
+            "language": "en",
+            "categories": [
+                {
+                    "score": 0.890045,
+                    "label": "/religion and spirituality/judaism"
+                },
+                {
+                    "score": 0.698062,
+                    "label": "/law, govt and politics"
+                },
+                {
+                    "score": 0.693537,
+                    "label": "/law, govt and politics/politics/political parties"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": "V Kamakoti of National Security Advisory Board tells Parikshitl that this is a time India can become a software hu httpstcoqXXKYmys",
+        "tags": {
+            "usage": {
+                "text_units": 1,
+                "text_characters": 131,
+                "features": 1
+            },
+            "language": "en",
+            "categories": [
+                {
+                    "score": 0.999971,
+                    "label": "/technology and computing/software"
+                },
+                {
+                    "score": 0.999213,
+                    "label": "/business and industrial/business software"
+                },
+                {
+                    "score": 0.998464,
+                    "label": "/technology and computing/computer certification"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": "India secures seat as a nonpermanent member at the UN Security Council  httpstcoaFLgBerB",
+        "tags": {
+            "usage": {
+                "text_units": 1,
+                "text_characters": 88,
+                "features": 1
+            },
+            "language": "en",
+            "categories": [
+                {
+                    "score": 0.779576,
+                    "label": "/religion and spirituality/hinduism"
+                },
+                {
+                    "score": 0.688585,
+                    "label": "/society/unrest and war"
+                },
+                {
+                    "score": 0.641991,
+                    "label": "/law, govt and politics"
+                },
+                {
+                    "score": 0.628364,
+                    "label": "/law, govt and politics/armed forces"
+                },
+                {
+                    "score": 0.601593,
+                    "label": "/law, govt and politics/government/heads of state"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": "Globalist UN lickspittle Ireland rewarded with a UN security council member slot are on the case demanding sancti httpstcoYufSNtUFSi",
+        "tags": {
+            "usage": {
+                "text_units": 1,
+                "text_characters": 132,
+                "features": 1
+            },
+            "language": "en",
+            "categories": [
+                {
+                    "score": 0.750583,
+                    "label": "/society/unrest and war"
+                },
+                {
+                    "score": 0.66717,
+                    "label": "/law, govt and politics/armed forces"
+                },
+                {
+                    "score": 0.595769,
+                    "label": "/law, govt and politics/government/heads of state"
+                },
+                {
+                    "score": 0.589762,
+                    "label": "/law, govt and politics/government/government contracting and procurement"
+                },
+                {
+                    "score": 0.582791,
+                    "label": "/news"
+                },
+                {
+                    "score": 0.555622,
+                    "label": "/law, govt and politics/government/embassies and consulates"
+                }
+            ]
+        }
+    },
+    {
+        "tweet": "btw my army also awaitsboth here and everywheresecurity make sure mels dont cock the hammer or i put you on httpstcoExOtFjNm",
+        "tags": {
+            "usage": {
+                "text_units": 1,
+                "text_characters": 124,
+                "features": 1
+            },
+            "language": "en",
+            "categories": [
+                {
+                    "score": 0.648024,
+                    "label": "/society/unrest and war"
+                },
+                {
+                    "score": 0.558745,
+                    "label": "/law, govt and politics"
+                },
+                {
+                    "score": 0.554143,
+                    "label": "/business and industrial/war industry"
+                },
+                {
+                    "score": 0.553305,
+                    "label": "/business and industrial/business operations"
+                },
+                {
+                    "score": 0.542495,
+                    "label": "/business and industrial/war industry/weaponry"
+                },
+                {
+                    "score": 0.541212,
+                    "label": "/sports/hunting and shooting/target shooting"
+                }
+            ]
+        }
+    }
+]
