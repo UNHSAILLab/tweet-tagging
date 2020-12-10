@@ -9,8 +9,8 @@ from ibm_watson.natural_language_understanding_v1 import Features, CategoriesOpt
 from sshtunnel import SSHTunnelForwarder
 
 
-api_key = 'wLer7NnOejSljCZKyx-lFg1fccXoFgsBqQYKX7PRYkJG'
-api_URL = 'https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/3750a739-2688-44ea-a78d-5bcd3017d07a'
+api_key = ''
+api_URL = 'https://api'
 authenticator = IAMAuthenticator(api_key)
 natural_language_understanding = NLU(
     version='2020-08-01',
